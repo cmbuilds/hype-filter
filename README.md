@@ -1,13 +1,14 @@
 # hype-filter (lite)
 
-A free skill for AI coding agents: paste a hype thread and get every
-money path it hints at, each with a $/day estimate and its basis, the
-evidence (marked LEGIT or HYPE), and the first real step.
+A free skill for AI coding agents: paste a hype thread and get a
+one-line verdict (HYPE, MIXED or LEGIT), then every money path it hints
+at, each with a $/day estimate and its basis, the evidence (marked
+PROVEN or CLAIMED), and the first real step.
 
 ## What this skill does
 
-One forward-looking pass over a thread, launch post or "I made $X with
-AI" claim. Each money path becomes an idea card. Estimates always carry
+A one-line verdict, then one forward-looking pass over a thread, launch
+post or "I made $X with AI" claim. Each money path becomes an idea card. Estimates always carry
 their basis, and "unknown" is an allowed answer. It advises only — it
 never buys, signs up, posts or messages anyone.
 
@@ -34,8 +35,8 @@ Run `/skills` to confirm it loaded.
 
 ## The full version
 
-**Hype Filter** adds what this lite version leaves out: a Claims section
-that marks each claim LEGIT, HYPE or PITCH, and a fit verdict
+**Hype Filter** adds what this lite version leaves out: What's real,
+which marks each claim PROVEN, CLAIMED or SELLING, and Fits you?, a call
 (USE IT / STEAL THE IDEA / TAKE ONE PIECE / SKIP) against a context file
 describing what you build, spend and refuse to do. Three worked
 examples are included.
