@@ -2,7 +2,7 @@
 
 A free skill for AI coding agents: paste a hype thread and get every
 money path it hints at, each with a $/day estimate and its basis, the
-evidence (marked SHOWN or SAID), and the first real step.
+evidence (marked LEGIT or HYPE), and the first real step.
 
 ## What this skill does
 
@@ -34,9 +34,9 @@ Run `/skills` to confirm it loaded.
 
 ## The full version
 
-**Hype Filter** adds what this lite version leaves out: a claim ledger
-that marks each claim SHOWN, SAID or SELLING, and a fit verdict
-(ADOPT / BORROW THE IDEA / LIFT ONE PART / PASS) against a context file
+**Hype Filter** adds what this lite version leaves out: a Claims section
+that marks each claim LEGIT, HYPE or PITCH, and a fit verdict
+(USE IT / STEAL THE IDEA / TAKE ONE PIECE / SKIP) against a context file
 describing what you build, spend and refuse to do. Three worked
 examples are included.
 

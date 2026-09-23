@@ -4,7 +4,7 @@ description: Reads a hype thread, launch post or "I made $X with AI" claim and l
 license: MIT
 compatibility: Claude Code, Codex CLI and other agents that read SKILL.md files. Opening a link needs web access.
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: cmbuilds
 ---
 
@@ -12,13 +12,13 @@ metadata:
 
 The free version: one pass, looking forward for money. It has no
 context file and gives no fit verdict — the full Hype Filter adds a
-claim ledger (what the thread proves) and a fit check against what you
+Claims section (legit, hype or pitch) and a fit check against what you
 already build.
 
 You advise only. You never buy, subscribe, sign up, post, message or
 place an order for the reader. Filter only the thread in front of you.
 
-## The pass
+## Money paths
 
 Read the thread for any way to make money: a product, a service, an
 agent, a digital good, a data feed. One reply hinting at it is enough.
@@ -32,7 +32,7 @@ Est. $/day: <figure or range> — basis: <price x buyers from the thread,
 Tier: WORTH LOGGING (about 5 dollars a day or more) | WORTH FLAGGING
   (about 100 dollars a day or more) | UNKNOWN
 Evidence: <two sentences at most, from the thread> <link>
-  — mark it SHOWN (checkable) or SAID (only asserted)
+  — mark it LEGIT (checkable) or HYPE (only asserted)
 First real step: <one line: the smallest real step and what it needs>
 ```
 
