@@ -40,7 +40,7 @@ that marks each claim SHOWN, SAID or SELLING, and a fit verdict
 describing what you build, spend and refuse to do. Three worked
 examples are included.
 
-- Agensi: <Agensi listing URL — added when listed>
+- Agensi: https://www.agensi.io/skills/hype-filter (pending review — the listing is not live yet)
 - PromptBase (single-prompt version): <PromptBase listing URL — added when listed>
 
 ## Licence
